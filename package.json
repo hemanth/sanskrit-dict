@@ -1,6 +1,6 @@
 {
   "name": "sanskrit-dict",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sanskrit dictionary",
   "license": "MIT",
   "repository": "hemanth/sanskrit-dict",
@@ -19,7 +19,9 @@
     "index.js",
     "cli.js"
   ],
-  "bin": {"sanskrit-dict":"cli.js"},
+  "bin": {
+    "sanskrit-dict": "cli.js"
+  },
   "keywords": [
     "dict",
     "dictionary",
