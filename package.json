@@ -1,0 +1,31 @@
+{
+  "name": "sanskrit-dict",
+  "version": "0.0.0",
+  "description": "Sanskrit dictionary",
+  "license": "MIT",
+  "repository": "hemanth/sanskrit-dict",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": "./cli.js",
+  "keywords": [
+    "dict",
+    "dictionary",
+    "sanskrit-dict",
+    "sanskrit"
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
