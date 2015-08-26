@@ -16,7 +16,8 @@
     "test": "mocha"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "cli.js"
   ],
   "bin": "./cli.js",
   "keywords": [
