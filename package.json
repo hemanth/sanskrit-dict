@@ -19,7 +19,7 @@
     "index.js",
     "cli.js"
   ],
-  "bin": "./cli.js",
+  "bin": {"sanskrit-dict":"cli.js"},
   "keywords": [
     "dict",
     "dictionary",
