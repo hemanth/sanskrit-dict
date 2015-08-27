@@ -1,5 +1,4 @@
 'use strict';
-var StreamSearch = require('streamsearch');
 var dict = require('./dict.js');
 
 module.exports = function (str,cb) {
