@@ -17,7 +17,8 @@
   },
   "files": [
     "index.js",
-    "cli.js"
+    "cli.js",
+    "dict.js"
   ],
   "bin": {
     "sanskrit-dict": "cli.js"
